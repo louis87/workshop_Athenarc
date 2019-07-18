@@ -7,4 +7,7 @@ Welcome to my first Github Project!!!  (:
 
 Find out more information in: [Press here](https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/)
 
-> Textbox
+Here's the workshop logo 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "
