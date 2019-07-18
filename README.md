@@ -1,16 +1,10 @@
 # workshop_Athenarc
 
-My first Github
+Welcome to my first Github Project!!!  (:
 
-# Headers
+# Some usefull information 
 *New field*
 
-[Google](https://www.google.com "Google's Homepage")
-
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+Find out more information in: [Press here](https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/)
 
 > Textbox
