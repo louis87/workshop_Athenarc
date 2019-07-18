@@ -7,7 +7,7 @@ Antibodies, also called immunoglobulins, are large Y-shaped proteins which are p
  
 ## Tool Authors 
 - [Louis Papageorgiou](http://www.bioacademy.gr/?lang=gr) (BRFAA)
-- [Dimitrios Vlachakis1](http://www.geneticslab.gr/) (Genetic Lab, AUA)
+- [Dimitrios Vlachakis](http://www.geneticslab.gr/) (Genetic Lab, AUA)
 
 ## Publications
 - Papageorgiou L. and Vlachakis D. Antisoma Application: A Fully Integrated V-Like Antibodies Platform AIMS Medical Science, 2017, 4(4): 382-394. doi: 10.3934/medsci.2017.4.382.
